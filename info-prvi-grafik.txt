@@ -1,0 +1,10 @@
+matrica = eval.evaluiraj_algoritme(
+    [algoritam], 
+    d_max=5, 
+    L=100,
+    n=7,
+    broj_iter=12,
+    broj_ponavljanja=20,
+    n_step=0,
+    L_step=10
+)
